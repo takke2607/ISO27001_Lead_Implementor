@@ -1,2 +1,53 @@
 What is Infosec:
 -> Infosec ensures CIA for the information
+C - Confidentiality 
+I - Integrity 
+A - Availability
+
+
+Management System (MS):
+-----------------------
+Management System uses a framework of resources to achieve an objective.
+
+MS Conponents:
+- Quality Management
+- Scope
+- Organization
+- Process
+- Policies
+- Records
+
+PDCA Cycle: Plan , Do , Check , Act ...
+
+Information Security Management System (ISMS):
+----------------------------------------------
+- Ensures information security of its information assets
+
+Types of information assets:
+
+1. Primary Assets - Info regarding Business process and activities essential for success of organization 
+2. Supporting Assets - Included hardware, software, network personnel etc.
+
+
+Examples of Security Frameworks and Standards:
+----------------------------------------------
+- ISO/IEC 27001
+- PCI DSS
+- COBIT 2019
+- NIST Cybersecurity Framework
+- NIST Risk Management Framework
+- NIST SP 800-53
+.
+.
+etc
+
+Categories of ISO 27001 Family of Standards:
+--------------------------------------------
+- Terminology
+- Requirements (Contains actaul mandates that can be audited during compliance)
+- Guidelines
+- Sector Specific
+
+ISO 27002 - Standard provides an implementation guidance on the security controls  
+ISO 27003 - Implementation guidance on the actual system requirements
+ISO 27005 - Provides information on how to conduct risk assessment and how to treat risk 
