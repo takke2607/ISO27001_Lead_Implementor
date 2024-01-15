@@ -9,8 +9,107 @@ Why obtaining management support is so important ?
 
 Relevant Clauses:
 -----------------
+
 5.1 - Leardership and commitment
+--------------------------------
 Required activity: Top management demonstartes leadership and commitment with respect to the ISMS.      
+Top management has to make sure to handle below things properly:
+    1. Policy
+    2. Communication
+    3. Process Integration
+    4. Monitor and Control  
+    5. Resources
+    6. Guidance and support
+
+Quality Management / Continual Improvement:
+
+    ACT    ------>  Plan
+    ^                 |
+    |                 |
+    |                 v
+    Check  <------   DO            
+ 
 
 5.3 - Organisational roles responsibilities and authorities
+-----------------------------------------------------------
+- RACI Matrix: 
+  RACI chart is a useful tool for project management that identifies belo key roles involved
+  * Responsible: Individual wo carry out the task.
+  * Accountable: The person who is ultimately accountablefor the task and responsible for managing those who are responsible for it
+  * Consulted: The individuals who needs to be consulted in the course of task execution
+  * Informed: Individuals who need to be kept informed.
+
+- Seggregation of Duties
+
+
 7.1 - Resources 
+---------------
+
+Categories of Resources:
+- Personnel 
+- Time
+- Money 
+- Information 
+- Infrastructure
+
+Resource Allocation Guidance
+----------------------------
+Estimate -> Acquire -> Provide -> Maintain -> Review
+
+
+7.2 Competence:
+---------------
+Determines the competence of the person needed for infosec performance and ensures that the person is competent.
+
+Competence Guidance
+-------------------
+Determine -> Assign -> Evaluate -> Verify -> Evolve
+
+Evidence of competence
+----------------------
+- Job description
+- Evidence of competence assessments
+- Training records
+- Performance records
+
+
+7.3 Awareness:
+--------------
+Required Activity: The persons doing work under the org control are made aware of the infosec policy, their contribution to the effectiveness of the ISMS, benefits of the improved infosec performance and implications of not conforming to the requirement of the ISMS.
+
+Awareness about:
+- Infosec policy 
+- Benefits of conformance 
+- Implications of non-conformance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
