@@ -1,0 +1,91 @@
+Relevant clauses:
+-----------------
+
+4.1 - Understanding the organzation and its context 
+4.2 - Understanding the needs and expectations of interested parties
+4.3 - Determining the scope of the ISMS
+4.4 - Information security management system 
+
+
+-----------------------------------------------------
+4.1 - Understanding the organization and its context:
+-----------------------------------------------------
+The organization determines external and internal issues relevant to its purpose and affecting its ability to achive the intended outcomes of the ISMS
+
+Context analysis purpose:
+-------------------------
+1. Scope of ISMS
+2. Risk and Opportunities 
+3. Adaption 
+
+External Issues:
+----------------
+External issues are not in the control of the organization.
+- Legal 
+- Natural 
+- Technological 
+- Financial 
+
+Internal Issues:
+----------------
+In Control of organzation
+- Infra
+- Reports
+- Objectives 
+- Culture 
+
+Implementation Guidance 4.1:
+----------------------------
+Identify relevant external issues
+Identify relevant internal issues
+
+The key is to evaluate each aspect on the question "How this this affect the Confidentiality, Integrity and Availability"
+
+
+--------------------------------------------------------------------
+4.2 - Understanding the needs and expectations of interested parties
+--------------------------------------------------------------------
+The organization determines interested partied relevant to the ISMS and their requirements relevant information security 
+
+Interested Party - A person or organization that can affect, be affected or perceive itself to be affected by a decision or activity.
+
+Types of interested parties:
+- Internal 
+- External
+
+External Stakeholders example - Banks, Suppliers, Competitors, Customers etc
+Inrernal Stakeholders example - Management, Process owners, HR Dept. , Exployees, Sales Dept. etc. 
+
+Implementation Guidance:
+------------------------
+
+    Identify external interested parties    ------>     Identify internal intersted parties
+
+                    ^                                              |
+                    |                                              |
+                    |                                              v
+
+            Continually review             <------      Identify requirements interested parties
+
+
+----------------------------------------
+4.3 - Determining the scope of the ISMS
+----------------------------------------
+The organization determines the boundaries and applicability of the ISMS to establish its scope. 
+The scope defines where and for what exactly the ISMS is appicable and where and for what it is not. 
+
+Scope of ISMS:
+--------------
+- Organizational scope : Legal entities, process , suppliers, dept. etc 
+- ICT scope - Functions, services etc.
+- Physical - Locations, specific sections etc.
+
+Implementation Guidance:
+------------------------
+Preliminary Scope >> Refined scope >> Final Scope >> Approval
+
+
+---------------------------------------------
+4.4 - Information security management system:
+---------------------------------------------
+The organization establishes, implements , maintains and continually improves ISMS.
