@@ -1,0 +1,46 @@
+Relevant Clauses:
+-----------------
+A.5.9  Inventory of information and other associated assets
+A.5.12 Classification of information
+A.5.13 Labelling of information 
+
+-----------------------------------------------------------
+A.5.9  Inventory of information and other associated assets
+-----------------------------------------------------------
+An inventory of information and other associated assets, including owners, should be developed and maintained.
+
+Information assets:
+-------------------
+1. Primary
+    > Business process - Prpcess that are essential for the success and mission of the organization
+    > Information - Information that is vital for the organization mission or business. 
+2. Supporting - Which support the execution and use of primary asssets. [eg. Hardware, software, Network, Personnel, Site, Organization]
+
+Steps to maintian Asset inventory:
+----------------------------------
+Review -> Update -> Adjust
+
+Asset Lifecycle:
+----------------
+1. Inventorying
+2. Classifying
+3. Reviewing
+4. Listing
+5. Establishing
+6. Handling
+
+
+------------------------------------
+A.5.12 Classification of information
+------------------------------------
+Information shoudl be classified according to information security needs of the organization based on confidentiality, integrity, availability and relevant interested party requirements. 
+
+Classification scheme:
+----------------------
+Information should be classified according to the information security needs of the organization based on integrity, confidentiality and availability and relevant interested party requirements. 
+
+
+-------------------------------
+A.5.13 Labelling of information
+-------------------------------
+An appropriate set of procedures for information lebelling should be developed and implemented in accordance with the information classification scheme adopted by the org. 
