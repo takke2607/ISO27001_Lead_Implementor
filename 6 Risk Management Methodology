@@ -1,0 +1,112 @@
+Relevant Clauses:
+-----------------
+6.1 Actions to address risks and opportunuties.
+6.1.2 Security Risk Assessment
+6.1.3 Security Risk Treatment
+ISO 27005 Information security risk management
+
+
+Risk fundamentals:
+------------------
+Risk - Threat that exploits a vulnerability of assets.
+Threats:
+    > Internal Threats - comes from inside organization [employees etc]
+    > External Threats - outside [competitors, hackers, natural etc]
+
+Risk = Impact x Probability
+
+
+-----------------------------------------------
+6.1 Actions to address risks and opportunuties.
+-----------------------------------------------
+
+ISO 27001 Risk categories
+
+Risk and Opportunities relevant to outcomes of the ISMS:
+--------------------------------------------------------
+- Based on internal and external issues(4.1)
+- Based on requirement by interested parties(4.2)
+- Ensure intended outcomes of the ISMS
+- Prevent and reduce undesired effect of risk to the isms
+- Achieven contual improvement(10.2)
+- Requirements: 6.1.1
+
+Information Security Risk:
+--------------------------
+- Loss of confidentiality
+- Loss of Integrity
+- Loss of Availability
+- Requirements: 6.1.2, 6.1.3
+
+Risk Management Process:
+------------------------
+1. Establish context 
+2. Risk Identification 
+3. Risk Analysis
+4. Risk Evaluation 
+5. Risk Treatment
+6. Risk Monitoring and review
+
+
+------------------------------
+6.1.2 Security Risk Assessment
+------------------------------
+The organization defines and applies information security risk assessment process.
+
+Risk assessment has 3 steps:
+1. Risk Identification
+Determine possible adverse event:
+    > Asset Identification
+    > Threat Identification
+    > Control Identification
+    > Vulnerability Identification
+    From above organization can determine the "Impact"
+
+2. Risk Analysis
+Risk level = Impact x Likelihood
+Analysis methods:
+
+    1. Qualitative - Based on subjectivity and the knowledge of the assessor
+    -------------------------------------------------------------------------
+                   ^
+      Extreme      |
+      Significant  |
+      Moderate     |
+      Minor        |
+      Very Low     |____________________________________________________>
+                    Very        Rare    Unlikely    Likely  Very_Likely
+                    Unlikely
+
+    2. Quantitative - Based on measurable and pre-defined data
+    -----------------------------------------------------------
+    Asset value(AV)     $
+    Exposure Factor(EF) %
+    Single Loss Expectancy(SLE)        SLE = AV x EF
+    Annual Rate of Occurence           No. of Times / Year
+    ------------------------------------------------------
+    Annualised Loss Expectancy         ALE = ARO x SLE
+    ------------------------------------------------------
+    
+3. Risk Evaluation 
+This includes to take action on risk if its not under risk appetite.
+
+
+------------------------------
+6.1.3 Security Risk Treatment
+------------------------------
+Organization defines and applies an information security risk treatment process. 
+
+Risk Treatment Process:
+-----------------------
+1. Select risk treatment options
+    Options:
+        a. Avoidance
+        b. Sharing
+        c. Modification
+        d. Retention
+2. Determine Controls
+3. Compare control with Annex A
+4. Produce SoA [Statement of applicability] - Outlines the control that the org has selcted to manage infosec risks
+5. Formulate risk treatment plan 
+6. Obtain approval
+
