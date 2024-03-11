@@ -1,0 +1,187 @@
+A.5.1 Policies for information security
+---------------------------------------
+Organization must define a proper information information security policy which must be accepted , approved and followed by the organization.
+
+A.5.2 Information security roles and responsibilities
+-----------------------------------------------------
+Roles and responsibilities for the information security must be clearly defined and assigned based on needs of organization
+
+A.5.3 Segregation of duties
+---------------------------
+Duties and areas of responsibility that conflict with each other should be seperated
+
+A.5.4 Management responsibilities
+---------------------------------
+All personnel must adhere to the information security policy, topic-specific policies and procedures established by the oragnization as required by management.
+
+A.5.5 Contact with authorities
+------------------------------
+The organization must establish and maintain communication with appropriate authorities 
+
+A.5.6 Contact with special interest groups
+------------------------------------------
+The organization must establish and maintain communication with specialized security forums, professional associations and special interest groups
+
+A.5.7 Threat Intelligence
+-------------------------
+Collecting and analyzing information related to information security threats is necessary to produce threat intelligence.
+
+A.5.8 Information security in project management
+------------------------------------------------
+Project management must include the integration of information security.
+
+A.5.9 Inventory of information and other associated assets
+----------------------------------------------------------
+An inventory of information and other associated assets, including the owner , should be developed and maintained.
+
+A.5.10 Acceptable use of information and other associated assets
+----------------------------------------------------------------
+The organization must identify, document and implement rules for acceptable use and procedures for handling information and associated assets.
+
+A.5.11 Return of assets
+-----------------------
+When employment, contract or agreement with the organization ends, personnel and ther relevant parties should return all organization assets in their possession.
+
+A.5.12 Classification for information
+--------------------------------------
+Information should be classified according to the information security needs of the organization based on confidentiality, integrity and availability and relevant interested party requirements.
+
+A.5.13 Labelling of information
+-------------------------------
+An appropriate set of procedures for information labelling should be developed and implemented in accordance with the information classification scheme adopted by the organization. 
+Labelling Techniques:
+---------------------
+- Physical labels
+- Headers and Footers
+- Metadata
+- Watermark
+
+A.5.14 Information Transfer
+---------------------------
+The organization must have rules, procedures, or agreements for transfer in place, covering all transfer facilities both within the organization and between the organization and external parties.
+
+A.5.15 Access Control
+---------------------
+The org must establish and implement rules to regulate physical and logical access to information and associated assets, considering business and information security requirements.
+
+A.5.16 Identity management
+--------------------------
+The org must manage the complete lifecycle of identities
+
+A.5.17 Authentication information
+---------------------------------
+A management process should control the allocation and management od authentication information which includes providing guidance to personnel on the proper handling of authentication information.
+
+A.5.18 Access rights
+--------------------
+Access rights to information and associated assets must be provided, reviewed, modified and revoked on the org topic-specific policy and control rules.
+
+A.5.19 Information security in supplier relationships
+-----------------------------------------------------
+The org must define and implement process and procedures to handle information security risks associated with the use of products or services provided by suppliers.
+
+A.5.20 Addressing information security within supplier agreements.
+------------------------------------------------------------------
+The org should establish and finalize relevant information security requirements with each supplier depending on the type of supplier relationship.
+
+A.5.21 Managing information security in the ICT supply chain
+------------------------------------------------------------
+The org must define and implement process and procedures to handle information security risks associated with the supply chain of ICT products and services.
+
+A.5.22 Monitoring review and change management of supplier services
+-------------------------------------------------------------------
+The organization should regularly monitor, review, evaluate and manage changes in supplier information security practice and service delivery
+
+A.5.23 Information security for use of cloud services
+-----------------------------------------------------
+The org must establish process for acquiring, using, managing and exiting from cloud services in line with its information security requirements. 
+
+A.5.24 Information Security incident management planning and preparation 
+------------------------------------------------------------------------
+The org should plan and prepare for managing information security incidents by defining, establishing and communicating processes , roles and responsibilities for incident management.
+
+A.5.25 Assessment and decision on information security events
+--------------------------------------------------------------
+The org should evaluate information security events to determine whether they qualify as information security incidents.
+
+A.5.26 Response to information security incidents
+-------------------------------------------------
+Infosec incidents must be addressed based on the established procedures.
+
+A.5.27 Learning from infosec incidents
+--------------------------------------
+The org should utilize insights obtained from infosec security incidents to enhance and advance info sec measures 
+
+A.5.28 Collection of evidence
+-----------------------------
+The org should define and implement procedures for indentifying, collecting , acquiring and preserving evidence related to infosec incident.
+
+A.5.29 Information security during disruption
+---------------------------------------------
+The org should establish plans to ensure appropriate levels of information security are maintained during disruption.
+
+A.5.30 ICT readiness for business continuity
+--------------------------------------------
+Plan, implement, maintain and test ICT readiness based on business continuity objectives and ICT continuity implements.
+
+A.5.31 Legal, statutory, regulatory and contractual requirements
+----------------------------------------------------------------
+The org should identify, document and update Legal, statutory, regulatory and contractual requirements that are relevant to information security and organization's approach to meeting them.
+
+A.5.32 Intellectual property rights
+-----------------------------------
+The org should establish and execute suitable procedures to safeguard the rights related to intellectual property.
+
+A.5.33 Protection of records
+----------------------------
+The org should establish and implement procedures to safeguard records against loss, destruction, falsification, unauthorized access and unauthorized release.
+
+A.5.34 Privacy and protection of Policies
+-----------------------------------------
+The org must recognize and fulfill the obligations concerning the safeguarding of privacy and protection of Personally Identifiable Information based on relevant laws, regulation and contractual obligations.
+
+A.5.35 Indepedent review of information security 
+------------------------------------------------
+The org's management of information security should be independently reviewed at scheduled intervals or when significant changes occur.
+
+A.5.36 Compliance with policies, rules and standards for information security
+-----------------------------------------------------------------------------
+Regular reviews should be conducted to ensure compliance with the organization's information security policy as well as its topic-specific policies, rules and standards.
+
+A.5.37 Documented operating procedures
+--------------------------------------
+The org should create and provide access to documented operating procedures for information processing facilities to personnel who require them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
