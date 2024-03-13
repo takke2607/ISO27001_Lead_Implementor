@@ -1,0 +1,55 @@
+A.7.1 Physical Security Perimeter
+---------------------------------
+To safeguard information and its assets, security perimeters should be identified and enforced.
+
+A.7.2 Physical Entry
+--------------------
+Appropriate entry controls and access points should be implemented to protect secure areas.
+
+A.7.3 Securing offices, rooms and facilities
+--------------------------------------------
+The org should create and execute physical security measures for its ofiices, rooms and facilities.
+
+A.7.4 Physical security monitoring 
+----------------------------------
+Continuous monitoring for unauthorized physical access should be conducted in the premises. 
+
+A.7.5 Protecting against physical and environmental threats
+------------------------------------------------------------
+The org should have measurements in place to safeguard against physical and environmental hazards.
+
+A.7.6 Working in secure areas
+-----------------------------
+The implementation of security measures for working in secure areas should be planned and carried out.
+
+A.7.7 Clear desk and clear screen
+---------------------------------
+The org should  establish and enforce rules for keeping desks clear of papers and removable storage media, as well as rules for clearing screens on information provessing facilities.
+
+A.7.8 Equipment siting and protection
+-------------------------------------
+equipement should be securely placed and safeguarded
+
+A.7.9 Security of assets off-premises
+-------------------------------------
+off-sites assets should be securely placed and safeguarded
+
+A.7.10 Storage media
+--------------------
+The org should manage storage media accroding to its classification scheme and handling requirements throughout the lifecycle of acquisition , use, transportation and disposal.
+
+A.7.11 Supporting utilities
+---------------------------
+The org should implement measures to protect information processing facilities from power outages and other disruptions caused by failures in supporting utilities.
+
+A.7.12 Cabling security 
+-----------------------
+Cables transmitting power, data or supporting information services should be safeguarded against interception, inteference or damage. 
+
+A.7.13 Eqipment maintenance
+----------------------------
+Equipment should be appropriately serviced and maintained to ensure the protection, availability, confidentiality and integrity of information.  
+
+A.7.14 Secure disposal or reuse of equipment
+--------------------------------------------
+Before re-use or disposal all sensitive data and lcensed software should be securely overwritten  or removed from equipment containing storage media to ensure they cannot be accssed.
