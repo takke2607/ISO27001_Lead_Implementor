@@ -1,0 +1,135 @@
+A.8.1 User endpoint device
+--------------------------
+The security of information stored, processed or accessed through user endpoint devices should be ensured.
+
+A.8.2 Privileged access rights
+------------------------------
+Access to privileged acccount should be limited and controlled to prevent unauthorized access.
+
+A.8.3 Information access restriction 
+------------------------------------
+Access to information and related assets should only be granted to authorized personnel in adherence to the relevant access control policies.
+
+A.8.4 Access to source code
+----------------------------
+Access to source code, developement tools and software libraries for reading and writing should be managed appropriately.
+
+A.8.5 Secure authentication
+---------------------------
+A secure authentication system should be established and implemented in accordance with the access control policy and information access restrictions.
+
+A.8.6 Capacity management
+-------------------------
+Resource usage should be monitored and modified to align with current  and anticipated capacity needs
+
+A.8.7 Protection against malware  
+--------------------------------
+Appropriate measures to prevent malware should be implemented and supported by increasing user awareness.
+
+A.8.8 Management of technical vulnerabilities
+---------------------------------------------
+Obtain information on technical vuln present in information systems in use, evaluate the organization's risk exposure to such vulnerabilities and take appropriate measures.
+
+A.8.9 Configuration management
+------------------------------
+The organization should create, document, implement, monitor and review configuration which include security conigurations of hardware, software, services and networks.
+
+A.8.10 Information deletion 
+---------------------------
+When information is no longer needed, it should be deleted from information systems, devices or any other storage media.
+
+A.8.11 Data masking
+-------------------
+The org's policies on access control, business requirements and applicable laws should be considred when implementing data masking as well as other related policies.
+
+A.8.12 Data leaka prevention
+----------------------------
+Measures to prevent data leakage should be implemented on devices, systems, and networks that process, store or transit sensitve information.
+
+A.8.13 information backup
+-------------------------
+the org should create and maintain backup copies of information , software and systems, and ensure they are tested regularly following the established topic-specify policy on backup.  
+
+A.8.14 Redundancy of information processing facilities
+------------------------------------------------------
+The redundancy level of information processing facilities should be adequate to fulfil availability needs
+
+A.8.15 Logging
+--------------
+Logs documenting events, exceptions, faults, and other pertinent activities should be generated, stored securely, protected and analyzed.
+
+A.8.16 Monitoring activities
+----------------------------
+Anomalous behaviour on networks, systems and applications should be monitored and potential information security should be evaluated and dealt with accordingly.
+
+A.8.17 Clock synchronization
+----------------------------
+The org's information processing systems clocks should be aligned with authorized time sources
+
+A.8.18 Use of privileged utility programs
+------------------------------------------
+Access and cotrols utility programs capable of overriding system and application controls should be tightly managed and limited.
+
+A.8.19 Installation of software on operational systems
+------------------------------------------------------
+Security procedures and measures should be put in place to ensure the secure management of software installation on operational systems.
+
+A.8.20 Network security 
+------------------------
+Information in systems and applications should be protected by securing, managing and controlling networks and network devices.
+
+A.8.21 Security of network services 
+------------------------------------
+The org should identify, implement and monitor the security mechanisms, service levels and service requirements of its network services.
+
+A.8.22 Segregation of networks
+------------------------------
+The org networks should seperate information services, users and information systems into groups
+
+A.8.23 Web filtering
+--------------------
+The org should control access to external websites to minimize the risk od exposure to ahrmful content 
+
+A.8.24 Use of cryptography
+--------------------------
+Set of guidelines for the proper use of cryptography which includes the management of cryptographic keys should be established and put into action
+
+A.8.25 Secure development lifecycle
+-----------------------------------
+An established set of rules for the secure development of software and systen should be applied.
+
+A.8.26 Application security requirements 
+----------------------------------------
+Whe developing or acquiring applications, it is important to identify, specify and approve information security requirements
+
+A.8.27 Secure system architecture and engineering principles
+------------------------------------------------------------
+A set of guidelines for creating secure systems should be defined, recorded, updated and enforced for all information system development tasks.
+
+A.8.28 Secure coding
+--------------------
+The development of software should follow secure coding principles.
+
+A.8.29 Security testing in development and acceptance
+-----------------------------------------------------
+The development life cycle include defined and implemented security testing process
+
+A.8.30 Outsourced development
+-----------------------------
+The org should oversee, supervise and assess the actions associated with system, development that are contracted out to third party entities.
+
+A.8.31 Seperation of development, test and production environments
+-------------------------------------------------------------------
+The development, testing and production environment should be isolated and protected.
+
+A.8.32 change management
+------------------------
+Alternation made to information systems and information processing facilities should be subjected to change management procedures
+
+A.8.33 Test Information
+-----------------------
+the org should ensure that test information is chosen, safeguarded and controlled in an appropriate manner
+
+A.8.34 Protection of information systms during audit testing
+------------------------------------------------------------
+the planning and aggrement of audit tests and assurance activities that assess operational systems should be conducted betwenn the tester and relevant management.
