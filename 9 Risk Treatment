@@ -1,0 +1,143 @@
+Example of Risk Treatment based upon example of MCAS engineering group:
+-----------------------------------------------------------------------
+
+Select appropriate risk treatment options (avoidance, sharing, modification, retention) for the following risks. Assume that MCAS Engineering is not willing to retain these risks without further treatment.
+
+1. Primary Data Center in Germany
+=================================
+Threat: Earthquake
+Vulnerability: Lack of sufficient disaster recovery or business continuity plans.
+Risk: Given the identified threat of an earthquake, the data center's vulnerability is its lack of sufficient disaster recovery or business continuity plans. If an earthquake were to occur, it could lead to significant physical damage to the data center's infrastructure, such as servers, network equipment, power supplies, cooling systems, etc. This would disrupt the company's operations as critical data and services hosted in this data center could become inaccessible. If MCAS Engineering Group does not have a comprehensive disaster recovery or business continuity plan in place, the company may not be able to recover quickly or might lose data permanently. This could result in significant operational downtime, financial losses, and potential reputational damage. Thus, the risk here is the potential for major disruption to business operations and loss of data due to an earthquake exploiting the existing vulnerability of inadequate disaster preparedness.
+
+
+2. SAP S/4HANA ERP System
+=========================
+Threat: Cyber-attacks such as hacking or malware.
+Vulnerability: Unpatched software vulnerabilities.
+Risk: Should cybercriminals exploit unpatched vulnerabilities in the ERP system, they could gain unauthorized access to sensitive information or disrupt the system's functionality.
+
+3. Intellectual Property
+========================
+Threat: Industrial espionage.
+Vulnerability: Lack of encryption measures for files containing intellectual property.
+Risk: MCAS Engineering Group's intellectual property, which encompasses unique design schematics, manufacturing processes, and proprietary research findings, is at risk due to the lack of encryption measures. If a threat actor such as an industrial spy exploits this vulnerability, they could gain unauthorized access to these unencrypted files and misappropriate the company's intellectual property. The subsequent misuse or release of this proprietary information could result in a loss of competitive advantage, potential legal repercussions, and substantial financial damage
+
+
+
+Given your selected risk treatment options from the previous exercise:
+- Select relevant controls from Annex A of the ISO 27001 standard that would effectively address and reduce these risks.
+- Provide a brief justification for each control you've chosen, describing how it will have the desired effect on the associated risk.
+
+1. Primary Data Center in Germany
+
+Risk Treatment Option: Modification 
+
+Explanation: MCAS Engineering should modify the risk by developing and implementing comprehensive disaster recovery and business continuity plans. This might include establishing a backup or secondary data center in a geographically diverse location that is less prone to earthquakes. Regularly scheduled drills, simulations, and staff training should be conducted to ensure rapid response and recovery in the event of a disaster. Data replication and frequent backups can also ensure data integrity and availability post-event.
+
+
+
+2. SAP S/4HANA ERP System
+
+Risk Treatment Option: Modification
+
+Explanation: To modify the risk, MCAS Engineering should implement a robust patch management process, ensuring that all software, especially the ERP system, is regularly updated to address known vulnerabilities. Implementing multi-factor authentication (MFA) and network segmentation can further reduce the chances of unauthorized access. Regular security audits and penetration testing can also help identify and rectify potential vulnerabilities proactively.
+
+
+
+3. Intellectual Property
+
+Risk Treatment Option: Modification
+
+Explanation: The company should modify the risk by implementing strong encryption measures for all files and databases containing intellectual property. This can be paired with strict access controls, ensuring that only authorized personnel have access to these files. Additionally, training employees on the importance of protecting intellectual property and adopting secure communication channels (e.g., encrypted emails) can further safeguard against the risk of industrial espionage. Monitoring systems can be used to track and alert on unauthorized access attempts.
+
+
+
+Note: Given that MCAS Engineering is not willing to retain these risks without further treatment, retention is not recommended for any of the risks. Avoidance (e.g., relocating the data center or not using certain technologies) and sharing (e.g., through insurance or partnerships) can also be considered but might not be the most direct and effective treatments for the risks outlined above.
+
+Given your selected risk treatment options from the previous exercise:
+
+- Select relevant controls from Annex A of the ISO 27001 standard that would effectively address and reduce these risks.
+
+- Provide a brief justification for each control you've chosen, describing how it will have the desired effect on the associated risk.
+
+Primary Data Center in Germany - Earthquake Risk
+
+Control (A.5.29): Information security during disruption
+Justification: By assessing business continuity risks, the company can understand the potential impacts of data center failures and design strategies to ensure that critical business functions remain available even during adverse situations.
+
+Control (A.8.14): Redundancy of information processing facilities
+Justification: This control emphasizes the creation of a robust strategy that accounts for disasters such as earthquakes. Implementing a business continuity strategy can help in defining and allocating the necessary resources to ensure data center resilience.
+
+Control (A.8.13): Information backup
+Justification: Regular data backups ensure that in case of an earthquake damaging the data center, MCAS Engineering can quickly restore data from backups, minimizing downtime and data loss.
+
+SAP S/4HANA ERP System - Cyber-attack Risk
+
+Control (A.8.8): Management of technical vulnerabilities
+Justification: By actively managing technical vulnerabilities and ensuring that patches are applied in a timely manner, the ERP system's exposure to known vulnerabilities can be reduced.
+
+Control (A.8.5): Secure authentication
+Justification: Multi-factor authentication and secure login processes can deter unauthorized access attempts, providing an additional layer of security against cyber-attacks.
+
+Control (A.8.19): Installation of software on operational systems
+Justification: Ensuring that only approved and necessary software is installed can reduce the potential entry points and vulnerabilities for malware and hackers.
+
+Intellectual Property - Industrial Espionage Risk
+
+Control (A.5.12): Classification of information
+Justification: By classifying intellectual property as confidential or top-secret, the company can set appropriate access controls and handling guidelines.
+
+Control (A.5.10): Acceptable use of assets and other associated information assets
+Justification: Ensuring that classified information (like intellectual property) is handled with care and by authorized personnel can minimize the risk of accidental disclosure or espionage.
+
+Control (A.5.14): Information transfer
+Justification: By having strict policies around the transfer of sensitive information, MCAS Engineering can ensure that intellectual property is only shared in secure ways and with trusted parties.
+
+Update the provided Statement of Applicability (SoA) template with the controls you selected from the previous question, ensuring the necessary details are captured for each control.
+
+Compare the attached downloadable resource for a possible solution.
+
+Formulate a risk treatment plan to implement the selected controls.
+
+When it comes to formulating a risk treatment plan, ISO 27001 does not provide any requirements on how such a plan could look like. Organisations can come up with their own interpretation, what the necessary steps are to implement the selected controls. It's essential to emphasize that the risk treatment plan and its associated controls have to be available as documented information as described in clause 7.5.
+
+Given the simplicity of this scenario no further details are provided.
+
+Your submission
+RT
+Rohan Takke
+Select appropriate risk treatment options (avoidance, sharing, modification, retention) for the following risks. Assume that MCAS Engineering is not willing to retain these risks without further treatment.
+
+1. Primary Data Center in Germany
+
+Threat: Earthquake
+
+Vulnerability: Lack of sufficient disaster recovery or business continuity plans.
+
+Risk: Given the identified threat of an earthquake, the data center's vulnerability is its lack of sufficient disaster recovery or business continuity plans. If an earthquake were to occur, it could lead to significant physical damage to the data center's infrastructure, such as servers, network equipment, power supplies, cooling systems, etc. This would disrupt the company's operations as critical data and services hosted in this data center could become inaccessible. If MCAS Engineering Group does not have a comprehensive disaster recovery or business continuity plan in place, the company may not be able to recover quickly or might lose data permanently. This could result in significant operational downtime, financial losses, and potential reputational damage. Thus, the risk here is the potential for major disruption to business operations and loss of data due to an earthquake exploiting the existing vulnerability of inadequate disaster preparedness.
+
+2. SAP S/4HANA ERP System
+
+Threat: Cyber-attacks such as hacking or malware.
+
+Vulnerability: Unpatched software vulnerabilities.
+
+Risk: Should cybercriminals exploit unpatched vulnerabilities in the ERP system, they could gain unauthorized access to sensitive information or disrupt the system's functionality.
+
+3. Intellectual Property
+
+Threat: Industrial espionage.
+
+Vulnerability: Lack of encryption measures for files containing intellectual property.
+
+Risk: MCAS Engineering Group's intellectual property, which encompasses unique design schematics, manufacturing processes, and proprietary research findings, is at risk due to the lack of encryption measures. If a threat actor such as an industrial spy exploits this vulnerability, they could gain unauthorized access to these unencrypted files and misappropriate the company's intellectual property. The subsequent misuse or release of this proprietary information could result in a loss of competitive advantage, potential legal repercussions, and substantial financial damage
+
+Given your selected risk treatment options from the previous exercise:
+
+- Select relevant controls from Annex A of the ISO 27001 standard that would effectively address and reduce these risks.
+
+- Provide a brief justification for each control you've chosen, describing how it will have the desired effect on the associated risk.
+
+Update the provided Statement of Applicability (SoA) template with the controls you selected from the previous question, ensuring the necessary details are captured for each control.
+
+Formulate a risk treatment plan to implement the selected controls.

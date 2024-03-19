@@ -1,0 +1,130 @@
+Relevant clauses
+----------------
+
+8.2 Information security risk assessment
+
+
+=========================================
+8.2 Information security risk assessment
+=========================================
+The org performs information security risk assessment and retains documented information on their results.
+
+
+Example of Risk Assessment
+--------------------------
+MCAS Engineering Group stands as a prominent player in the global heavy machinery and equipment manufacturing landscape, with a strong commitment to innovation, excellence, and sustainability.MCAS Engineering Group caters to a diverse range of industries, including construction, mining, aerospace, transportation, and energy. The company specializes in the design, manufacturing, and distribution of heavy machinery and equipment for various applications across these sectors.MCAS has its headquarters located in Germany and maintains a strong international presence, with regional offices, manufacturing facilities, and distribution centers trategically located across Europe, Asia, and the Americas. This global network enables MCAS to efficiently serve its clients and adapt to the unique requirements of different markets.
+Product portfolio MCAS Engineering Group offers a comprehensive product portfolio, encompassing a wide range of heavy machinery and equipment tailored to the specific needs of various industries. The
+product offerings include:
+• Earthmoving Equipment: Excavators, wheel loaders, bulldozers, and off-highway trucks for construction and mining applications.
+• Cranes and Material Handling: Mobile, crawler, tower, and maritime cranes, as well as specialized lifting and material handling equipment for various industries.
+• Aerospace and Transportation Systems: High-precision components and systems for the aerospace and rail transportation industries, such as landing gears, hydraulic actuators, and bogie systems.
+
+Considering the MCAS Engineering Group's business operations and IT infrastructure, identify three distinct information security risks. Each risk should be based on a potential threat exploiting the vulnerability of a specific asset.
+The assets to be considered are:
+- The company's primary data center in Germany (Physical location).
+- The SAP S/4HANA ERP system (IT System).
+- Intellectual property related to the design and manufacturing of heavy machinery (General topic).
+
+======
+Risks
+======
+
+Primary Data Center in Germany:
+--------------------------------
+Threat: Earthquake
+------
+Vulnerability: Lack of sufficient disaster recovery or business continuity plans.
+-------------
+Risk: Given the identified threat of an earthquake, the data center's vulnerability is its lack of sufficient disaster recovery or business continuity plans. If an earthquake were to occur, it could lead to 
+-----
+significant physical damage to the data center's infrastructure, such as servers, network equipment, power supplies, cooling systems, etc. This would disrupt the company's operations as critical data and services hosted in this data center could become inaccessible. If MCAS Engineering Group does not have a comprehensive disaster recovery or business continuity plan in place, the company may not be able to recover quickly or might lose data permanently. This could result in significant operational downtime, financial losses, and potential reputational damage. Thus, the risk here is the potential for major disruption to business operations and loss of data due to an earthquake exploiting the existing vulnerability of inadequate disaster preparedness.
+
+
+SAP S/4HANA ERP System:
+------------------------
+Threat: Cyber-attacks such as hacking or malware.
+------
+Vulnerability: Unpatched software vulnerabilities.
+-------------
+Risk: Should cybercriminals exploit unpatched vulnerabilities in the ERP system, they could gain unauthorized access to sensitive information or disrupt the system's functionality.
+----
+
+
+Intellectual Property:
+----------------------
+Threat: Industrial espionage.
+-------
+Vulnerability: Lack of encryption measures for files containing intellectual property.
+--------------
+Risk: MCAS Engineering Group's intellectual property, which encompasses unique design schematics, manufacturing processes, and proprietary research findings, is at risk due to the lack of encryption measures. If a 
+-----
+threat actor such as an industrial spy exploits this vulnerability, they could gain unauthorized access to these unencrypted files and misappropriate the company's intellectual property. The subsequent misuse or release of this proprietary information could result in a loss of competitive advantage, potential legal repercussions, and substantial financial damage
+
+
+===============================================================
+Determining the likelihood, impact and resulting level of risk.
+===============================================================
+
+1. Risk: Primary data center in Germany
+---------------------------------------
+Impact Analysis:
+The potential impact of an earthquake damaging the MCAS data center in Germany is high. Should the data center become severely damaged or inoperable, long-term disruption to MCAS's business operations is inevitable until alternative arrangements are made or the data center is repaired. The financial loss from operational downtime and the potential loss of clients due to a failure to restore services promptly could be significant. Furthermore, there could be substantial damage to MCAS's reputation, particularly if client data is lost or services are unavailable for an extended period.
+
+Considering these potential consequences, the impact can be rated as 4 (Significant) on the impact scale provided.
+
+Likelihood Analysis:
+
+Assessing the likelihood of an earthquake is challenging and heavily dependent on the geographical location of the data center. Given that the data center is located in Germany, a region not prone to severe seismic activities, the likelihood of an earthquake causing damage to the data center is relatively low.
+
+Therefore, the likelihood is rated as 2 (Rare) on the scale provided.
+
+Risk Level:
+
+Given the significant potential impact (4) and the relatively low likelihood (2), the overall risk level is High.
+
+This conclusion is drawn despite the low likelihood due to the severity of the potential impact. This means that the risk of an earthquake should be a high priority for the company when considering risk treatment and mitigation measures.
+
+Remember that this analysis is subjective and simplified for this exercise. In a real-world context, a thorough risk assessment would involve detailed data collection, precise location data, and potentially consultation with experts in disaster recovery planning.
+
+
+
+2. Risk: SAP S/4HANA ERP System
+--------------------------------
+Impact Analysis:
+
+Given the critical role of the SAP S/4HANA ERP system in managing vital business processes, any significant disruption or breach would have severe consequences. The potential impact includes not only financial loss from downtime, but also regulatory fines if data breaches occur, and reputational damage due to a loss of trust from customers and partners.
+
+As such, the impact is rated as 4 (Significant).
+
+Likelihood Analysis:
+
+The likelihood of such an attack is relatively high, given the increasing sophistication of cyber-attacks and the attractive target that ERP systems present for cybercriminals. Furthermore, unpatched software vulnerabilities are a known vector for such attacks.
+
+As a result, the likelihood is rated as 4 (Likely).
+
+Risk Level:
+
+With both impact and likelihood being rated as 4, the overall risk level is Very High, indicating the need for prompt action to mitigate this risk.
+
+
+3. Risk: Intellectual Property
+------------------------------
+Impact Analysis:
+
+The impact of industrial espionage exploiting the lack of encryption measures on intellectual property could be devastating. The company's competitive advantage could be seriously compromised if competitors gain access to proprietary designs or processes. It could also lead to legal implications and substantial financial damage.
+
+Therefore, the impact is rated as 5 (Extreme).
+
+Likelihood Analysis:
+
+Given the highly competitive nature of the engineering industry and the value of intellectual property, the likelihood of such an event is significant. Threat actors are continuously seeking ways to gain a competitive advantage, making unencrypted files an attractive target.
+
+Therefore, the likelihood is rated as 3 (Unlikely).
+
+Risk Level:
+
+With an impact rating of 5 and a likelihood rating of 3, the overall risk level is Very High. This indicates that there is a significant need for the implementation of effective risk mitigation strategies.
+
+Evaluate the identified and analysed risks by comparing them against the risk acceptance criteria and determine which risks need to undergo treatment.
+
+All risks exceed the threshold of low and medium risks. Therefore all three of them need to undergo treatment.
